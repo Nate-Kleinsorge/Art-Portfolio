@@ -1,0 +1,35 @@
+[
+    {
+      "message": "JavaScript"
+    },
+    {
+      "message": "HTML"
+    },
+    {
+      "message": "CSS"
+    },
+    {
+      "message": "Node.js"
+    },
+    {
+      "message": "Express.js"
+    },
+    {
+      "message": "MySQL"
+    },
+    {
+      "message": "MongoDB"
+    },
+    {
+      "message": "React"
+    },
+    {
+      "message": "GraphQL"
+    },
+    {
+      "message": "Sequelize"
+    },
+    {
+      "message": "Handlebars.js"
+    }
+  ]
